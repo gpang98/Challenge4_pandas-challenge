@@ -1,7 +1,8 @@
 # Challenge4_pandas-challenge
 
 The python codes used are primarily using pandas to manipulate the two csv input files which was merged.  The merged file is used for all the 
-computation for the required statistics as outline.
+computation for the required statistics as outline.  
+Python codes have been sourced from lectures note, Google and ChatGPT. 
 
 The original starting script has been utilized and the mark down comments are preserved.
 Each steps of the codes have been given some clarification on the intent of the codes and 
